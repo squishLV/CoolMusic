@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(13, 221, 236);
+}
+
+.coolio{
+    width: 500px;
+    height: 100px;
+    background-color: blue;
+    cursor: pointer;
+    border: none;
+        
+}
